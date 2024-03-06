@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>mi-na777のホームページ2</title>
+  <meta charset="UTF-8">
+    <style>
+    body {
+     color: rgb(88, 88, 88);
+   }
+   #pattern1 {
+     background-color:#7fffd4;
+     width:800px;
+   }
+   #pattern2 {
+     background-color:#ffffff;
+     width:800px;
+   }
+   </style>
+</head>
+<body>
+  <h1>mi-na777の電子美術館</h1>
+  <p>mi-na777のホームページ</p>
+  <h2>かべがみ作品</h2>
+  </html></p>
+  <p>▶のボタンがあるタブを押してみてください</p>
+  <details id=pattern2> 
+    <summary>写真合成かべがみ</summary>
+    <img src="壁紙1.jpg" alt="かべがみ1"width="197.1" height="220.6"/>
+  </details>
+<p>以下、別のぺージに飛ぶリンクになります。もし良ければ、リンクを押してみてください。</p>
+<p>mi-na777のホームページのリンク↓</p>
+<a href="index.html">mi-na777のホームページ</a>
+<p></p>
+  <details id=pattern1> 
+    <summary>お断り</summary>
+    <p>わたしの絵の使用や盗用はおやめください。また、わたしの絵を生成AIに取り込むことも禁止です。</p> 
+    <p>わたしのwebサイトに対する悪用、改ざんは禁止です。</p> 
+  </details>
+</body>
+<html>
